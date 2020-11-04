@@ -1,9 +1,12 @@
-### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website] 👋
+### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website1] 👋
+
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
 
 
 ## I'm a CSE Student, Competitive programmer.
+<p >Greetings good people! <br>
+I'm a Computer Science & Engineering student and expecting to be graduated from Metropolitan University by 2020. I have proficiency in Algorithms and Data Structures and love to solve algorithmic problems.I have Solved nearly 1500 problems in different online judges. Participated in more than 10 national contests and more than 400 online contests</p>
 
 - 🔭 I’m currently working on my final year project
 - 🌱 I’m currently learning everything 🤣
@@ -26,6 +29,7 @@
 
 
 [website]: https://farhan-meb.github.io/portfolio/
+[website1]: https://github.com/Farhan-meb
 [twitter]: https://twitter.com/iamFarhanMahbub
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/_.mrittu._/?hl=en
