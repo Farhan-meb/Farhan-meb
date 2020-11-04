@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my final year project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: To be graduated :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 ### Spotify Playing 🎧
