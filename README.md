@@ -7,7 +7,7 @@
 ## About me 
 I'm a Computer Science & Engineering student and expecting to be graduated from Metropolitan University by 2020. I have proficiency in Algorithms and Data Structures and love to solve algorithmic problems.I have Solved nearly 1500 problems in different online judges. Participated in more than 10 national contests and more than 400 online contests</p>
 
-- 🔭 I’m currently working on my final year project
+- 🔭 I’m currently working on my p300 and  final year project :3
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To be graduated :|
