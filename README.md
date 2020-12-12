@@ -1,4 +1,4 @@
-### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website1] 👋
+### Hi there, I'm Md Mahbub Abedin Talukdar - aka [Farhan-meb][website1] 👋
 
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
@@ -22,7 +22,7 @@ I'm a Computer Science & Engineering student and expecting to be graduated from 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true" alt="Farhan-meb" /></p>
 
-### :gear: My skills include:
+### :gear: My skills:
 
 - **Languages**: `Python`, `C++`,`C`, `HTML / CSS / JS`, `Java`
 
