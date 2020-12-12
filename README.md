@@ -18,9 +18,9 @@ I'm a Computer Science & Engineering student and expecting to be graduated from 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaman007&layout=compact" alt="aaman007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-meb&layout=compact" alt="Farhan-meb" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaman007&show_icons=true" alt="aaman007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true" alt="Farhan-meb" /></p>
 
 ### Connect with me:
 
