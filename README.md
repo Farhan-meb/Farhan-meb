@@ -5,13 +5,11 @@
 
 
 ## About me 
-I am currently a Software Engineer at ShohozDeal Ltd. My Current working technology is MERN. 
 Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem Creating, etc. Solved nearly 1500 problems in different online judges. Participated in more than10 national contests and more than 400 online contests.</p>
 
-- 🔭 I’m currently working on my final year project.
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to get into a job.
-- 🥅 2020 Goals: To be graduated :|
+- 🔭 I’m currently a Software Engineer at ShohozDeal Ltd.
+- 🌱 I’m currently learning Node js, Express js, React js, MongoDb Stack.
+- 🥅 2021 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 ### Spotify Playing 🎧
