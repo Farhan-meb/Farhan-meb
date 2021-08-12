@@ -1,4 +1,4 @@
-### Hi there, I'm Md Mahbub Abedin Talukdar - aka [Farhan-meb][website1] 👋
+### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website1] 👋
 
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
