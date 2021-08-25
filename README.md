@@ -12,14 +12,16 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 - 🥅 2021 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-meb&layout=compact" alt="Farhan-meb" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true" alt="Farhan-meb" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
 ### :gear: My skills:
 
