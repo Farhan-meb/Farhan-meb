@@ -21,11 +21,12 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 ### :gear: My skills:
 
-- **Languages**: `Python`, `C++`,`C`, `HTML / CSS / JS`, `Java`, [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/Farhan-meb)
+- **Languages**: `JavaScript`,`Python`, `C++`, `C`, `HTML, CSS`, `Java`
 
-- **Databases**: `MySQL`, `sqlite3`
+- **Databases**: `MySQL`, `sqlite3`, `MongoDB`
 
-- **Frameworks**: `Django` 
+- **Django
+- **Node JS, Express JS 
 
 - **Algorithms** , **Data-structures**
 
