@@ -25,8 +25,8 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - **Databases**: `MySQL`, `sqlite3`, `MongoDB`
 
-- **Django
-- **Node JS, Express JS 
+- **Django**
+- **Node JS**, **Express JS**
 
 - **Algorithms** , **Data-structures**
 
