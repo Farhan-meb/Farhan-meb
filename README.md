@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ## About me 
 Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem Creating, etc. Solved nearly 1500 problems in different online judges. Participated in more than10 national contests and more than 400 online contests.</p>
 
