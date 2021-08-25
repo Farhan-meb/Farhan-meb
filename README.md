@@ -3,8 +3,8 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-## About me 
+
+## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem Creating, etc. Solved nearly 1500 problems in different online judges. Participated in more than10 national contests and more than 400 online contests.</p>
 
 - 🔭 I’m currently a Software Engineer at ShohozDeal Ltd.
@@ -19,7 +19,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
-### :gear: My skills:
+### :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 - **Languages**: `JavaScript`,`Python`, `C++`, `C`, `HTML, CSS`, `Java`
 
@@ -32,7 +32,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - **Operating System**: `Windows`, `Linux`
 
-### Connect with me:
+### Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
