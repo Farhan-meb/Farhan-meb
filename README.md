@@ -21,7 +21,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 ### :gear: My skills:
 
-- **Languages**: `Python`, `C++`,`C`, `HTML / CSS / JS`, `Java`
+- **Languages**: `Python`, `C++`,`C`, `HTML / CSS / JS`, `Java`, [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 - **Databases**: `MySQL`, `sqlite3`
 
