@@ -19,7 +19,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
-### :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;### :gear: My skills
 
 - **Languages**: `JavaScript`,`Python`, `C++`, `C`, `HTML, CSS`, `Java`
 
@@ -32,7 +32,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - **Operating System**: `Windows`, `Linux`
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;### Connect with me 
+### Connect with me 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
