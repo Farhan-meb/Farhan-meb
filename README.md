@@ -1,7 +1,7 @@
 ### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website1] 👋
 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhan-meb.github.io/portfolio/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhanmeb.wixsite.com/farhan-meb)
 
 
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
