@@ -19,6 +19,8 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
 
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
 ### :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
