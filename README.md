@@ -1,10 +1,7 @@
 ### Hi there, I'm Farhaan Mahbub - aka [Farhan-meb][website1] 👋
 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhanmeb.wixsite.com/farhan-meb) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://facebook.com/farhan.meb) [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Farhan-meb/StrapDown.js/watchers/) ![Profile views](https://gpvc.arturio.dev/Farhan-meb) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Farhan-meb?tab=followers) [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Farhan-meb/badges "Percentage of issues still open") 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-farhan.meb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:farhan.meb@gmail.com)](mailto:rebai.ahmed@outlook.com) 
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhanmeb.wixsite.com/farhan-meb) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://facebook.com/farhan.meb) [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Farhan-meb/StrapDown.js/watchers/) ![Profile views](https://gpvc.arturio.dev/Farhan-meb) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Farhan-meb?tab=followers) [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Farhan-meb/badges "Percentage of issues still open") [![Gmail Badge](https://img.shields.io/badge/-farhan.meb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:farhan.meb@gmail.com)](mailto:rebai.ahmed@outlook.com) 
 
 
 
