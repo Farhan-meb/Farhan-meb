@@ -6,7 +6,7 @@
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-farhan.meb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:farhan.meb@gmail.com)](mailto:rebai.ahmed@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/farhan-mahbub-2ab3917b/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan-mahbub-2ab3917b//)](https://www.linkedin.com/in/https://www.linkedin.com/in/rebaiahmed//) [![Github Badge](https://img.shields.io/badge/-Farhan-Mahbub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Farhan-meb/)](https://www.github.com/Farhan-meb/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/RebaiAhmed_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/RebaiAhmed_/)](https://www.twitter.com/https://twitter.com/RebaiAhmed_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://farhanmeb.wixsite.com/farhan-meb)]
+
 
 
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
