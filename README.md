@@ -17,6 +17,8 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <br>
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
 
 <br>
