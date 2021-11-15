@@ -34,7 +34,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - **Algorithms** , **Data-structures**
 
-- **Operating System**: [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+- **Operating System**: [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 </br>
 
