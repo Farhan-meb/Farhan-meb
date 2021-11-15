@@ -3,6 +3,11 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farhanmeb.wixsite.com/farhan-meb) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://facebook.com/farhan.meb) [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Farhan-meb/StrapDown.js/watchers/) ![Profile views](https://gpvc.arturio.dev/Farhan-meb) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Farhan-meb?tab=followers) [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Farhan-meb/badges "Percentage of issues still open") 
 
+<br>
+
+[![Gmail Badge](https://img.shields.io/badge/-farhan.meb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:farhan.meb@gmail.com)](mailto:rebai.ahmed@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/rebaiahmed/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/farhan-mahbub-2ab3917b//)](https://www.linkedin.com/in/https://www.linkedin.com/in/rebaiahmed//) [![Github Badge](https://img.shields.io/badge/-RebaiAhmed-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RebaiAhmed/)](https://www.github.com/RebaiAhmed/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/RebaiAhmed_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/RebaiAhmed_/)](https://www.twitter.com/https://twitter.com/RebaiAhmed_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://rebaiahmed.github.io/)]
+
 
 ## About me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem Creating, etc. Solved nearly 1500 problems in different online judges. Participated in more than10 national contests and more than 400 online contests.</p>
