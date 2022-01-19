@@ -10,7 +10,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - 🔭 I’m currently a Software Engineer at ShohozDeal Ltd.
 - 🌱 I’m currently learning Node js, Express js, React js, MongoDb Stack.
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
+- 🥅 2021 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
