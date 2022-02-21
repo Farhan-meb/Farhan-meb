@@ -13,24 +13,21 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 - 🥅 2021 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
-##📈 Github Contributions
+## 📈 Github Contributions
 <p align="center">
 <a href="https://github.com/Farhan-meb">
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
 <hr />
-##📈 Github Stats
 
+## 📈 Github Stats
 <h2 align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
 </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
 <br>
-
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
 </h2> 
-
 <br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
 ## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
