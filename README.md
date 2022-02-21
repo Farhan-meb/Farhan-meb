@@ -21,11 +21,13 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 <hr />
 <h2 align="center">📈 Github Stats</h2>
 
+<h2 align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
 </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
 <br>
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+</h2> 
 
 <br>
 
