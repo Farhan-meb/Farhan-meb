@@ -33,7 +33,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
-## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<h2 align="center">## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2>
 
 - **Algorithms** , **Data-structures**, **Problem Solving**, **Problem Creating**
 
