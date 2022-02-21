@@ -13,13 +13,13 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 - 🥅 2021 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
-<h2 align="center">📈 Github Contributions</h2>
+##📈 Github Contributions
 <p align="center">
 <a href="https://github.com/Farhan-meb">
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
 <hr />
-<h2 align="center">📈 Github Stats</h2>
+##📈 Github Stats
 
 <h2 align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
@@ -33,7 +33,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
 
-<h2 align="center">## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2>
+## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 - **Algorithms** , **Data-structures**, **Problem Solving**, **Problem Creating**
 
