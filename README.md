@@ -13,6 +13,11 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 - 🥅 2021 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
+<h2 align="center">📈 Github Contributions</h2>
+<p align="center">
+<a href="https://github.com/w3bdesign">
+  <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
 </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></p>
