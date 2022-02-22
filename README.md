@@ -43,10 +43,10 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 ## 📈 Github Stats
 
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" />
 
-[![Farhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan-meb)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 ## Connect with me
