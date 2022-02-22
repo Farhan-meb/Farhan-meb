@@ -18,7 +18,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 <a href="https://github.com/Farhan-meb">
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
-<hr />
+
 
 <!-- ## 📈 Github Stats
 
