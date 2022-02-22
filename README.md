@@ -22,11 +22,14 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 ## 📈 Github Stats
 
-<h2 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" /></h2> 
-<h2 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" /></h2> 
+<h2 align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" /></h2> 
+<h2 align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" />
+</h2> 
 <br>
-  
-<h2 align="center">[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+<h2 align="center">
+ [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
 </h2> 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p>
