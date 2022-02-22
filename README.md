@@ -42,9 +42,9 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 ## 📈 Github Stats
 
+![Farhan Mahbub's github stats](https://github-readme-stats.vercel.app/api?username=Farhan-meb&count_private=true)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan-meb&show_icons=true&locale=en&layout=compact" alt="Farhan-meb" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Farhan-meb&show_icons=true&locale=en" alt="Farhan-meb" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-meb&layout=compact)
 
 
 
