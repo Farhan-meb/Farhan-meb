@@ -30,11 +30,13 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 <br>
 <h2 align="center">
  [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Farhan-meb&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
-</h2> 
+</h2>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-meb&" alt="Farhan-meb" /></p> -->
 
 ## :gear: My skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
+<h2 align="center">
 
 - **Algorithms** , **Data-structures**, **Problem Solving**, **Problem Creating**
 
@@ -50,6 +52,7 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 
 - ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) 	![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 </br>
+</h2>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
