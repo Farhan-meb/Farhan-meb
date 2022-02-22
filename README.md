@@ -52,9 +52,8 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 </br>
 
 ## 😂 Here is a random joke that'll make you laugh!
-<h2 align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</h2>
+
   
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
