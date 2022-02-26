@@ -13,11 +13,11 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 - 🥅 2021 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
-<!-- ## 📈 Github Contributions
+## 📈 Github Contributions
 <p align="center">
 <a href="https://github.com/Farhan-meb">
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
-</a> -->
+</a>
 
 
 ## :gear: My skills
@@ -40,11 +40,11 @@ Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem C
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats
 
 ![Farhan Mahbub's github stats](https://github-readme-stats.vercel.app/api?username=Farhan-meb&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-meb&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-meb&layout=compact) -->
 
 
 
