@@ -9,7 +9,7 @@
 Proficient in Algorithms, Data Structures, Problem Solving, Analyzing, Problem Creating, etc. Solved nearly 1500 problems in different online judges. Participated in more than10 national contests and more than 400 online contests.</p>
 
 - 🔭 I’m currently a Software Engineer at Technext Limited.
-- 🔭 Fromer software engineer at ShohozDeal Ltd.
+- 🔭 Fromer Software Engineer at ShohozDeal Ltd.
 - 🌱 I’m currently learning Node js, Express js, React js, MongoDb Stack.
 - 🥅 2022 Goals: To be a better coder.
 - ⚡ Fun fact: I love taking photos, playing video games.
